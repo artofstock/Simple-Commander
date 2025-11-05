@@ -24,6 +24,7 @@ python Simple_commander.py
 ```
 
 ## 사용법
+<img width="1402" height="852" alt="image" src="https://github.com/user-attachments/assets/63b93725-8763-47c0-b229-fb91d569c07d" />
 
 ### 단축키
 - **F3**: 파일 보기
