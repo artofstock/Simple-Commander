@@ -1,4 +1,4 @@
-# Simple Commander
+# Simple Commander v1.0.6
 
 토탈커맨더 스타일의 듀얼 패널 파일 매니저
 
@@ -20,7 +20,7 @@
 
 ### 실행 방법
 ```bash
-python Simple_commander_v1.05.py
+python Simple_commander.py
 ```
 
 ## 사용법
