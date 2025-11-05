@@ -51,9 +51,6 @@ MIT License
 - Byun Yongsub
 ```
 
-## .gitignore 파일 만들기
-
-Python 프로젝트용 `.gitignore` 파일도 만드세요:
 ```
 # Python
 __pycache__/
