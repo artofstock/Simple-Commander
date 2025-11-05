@@ -20,7 +20,7 @@
 
 ### 실행 방법
 ```bash
-python Simple_commander.py
+python Simple_commander_v1.0.6.pyw
 ```
 
 ## 사용법
@@ -51,7 +51,7 @@ MIT License
 
 - Byun Yongsub
 ```
-
+Simple_commander_v1.0.6.pyw
 ```
 # Python
 __pycache__/
