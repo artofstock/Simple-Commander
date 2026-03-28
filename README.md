@@ -80,4 +80,4 @@ python cli.py
 
 ## 👤 개발자
 
-* Atlas (아틀라스)
+* artofstock (yongsub@gmail.com)
