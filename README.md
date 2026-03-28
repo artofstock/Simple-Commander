@@ -28,11 +28,6 @@
 
 ```
 simple_commander/
-├── core/          # 명령 처리 및 상태 관리
-├── commands/      # 각 명령 기능 (ls, cd, rm 등)
-├── utils/         # 파일 처리 유틸리티
-├── cli.py         # CLI 실행 진입점
-```
 
 ---
 
