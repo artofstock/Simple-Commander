@@ -1,83 +1,82 @@
 # Simple Commander
 
-간단하고 빠르게 파일을 관리하고 명령을 실행할 수 있는 Python 기반 CLI(Command Line Interface) 도구입니다.
-직관적인 명령 구조를 통해 파일 탐색, 이동, 삭제 등의 작업을 효율적으로 수행할 수 있도록 설계되었습니다.
+A simple, fast, and lightweight Python-based CLI tool for file management and command execution.
 
----
+Simple Commander provides an intuitive command-line interface for navigating directories, managing files, and executing commands efficiently.
 
-## 🚀 주요 기능
+## 🚀 Features
 
-* 📁 파일 및 디렉토리 목록 조회
-* 📂 디렉토리 이동 (cd)
-* ❌ 파일 삭제
-* 📋 파일 복사 및 이동
-* ⚡ 간단한 명령 기반 인터페이스 제공
+* 📁 List files and directories
+* 📂 Navigate directories with `cd`
+* ❌ Delete files
+* 📋 Copy and move files
+* ⚡ Simple and intuitive command-based interface
+* 🧩 Modular and extensible command structure
 
----
+## 🎯 Design Goals
 
-## 🧠 설계 목표
+* Keep file management **simple and fast**
+* Provide an **intuitive CLI experience**
+* Build a **flexible and extensible command system**
+* Maintain a **clean and modular architecture**
+* Make the project easy to understand and maintain
 
-* 단순하고 빠른 파일 관리
-* 확장 가능한 명령 구조
-* 직관적인 CLI 환경 제공
-* 유지보수가 쉬운 모듈 구조
+## 📦 Project Structure
 
----
-
-## 📦 프로젝트 구조
-
-```
+```text
 simple_commander/
+├── cli.py
+├── commands/
+├── core/
+└── README.md
+```
 
----
+## ▶️ Getting Started
 
-## ▶️ 실행 방법
+Run the main application:
 
 ```bash
 python Simple_commander_v2.0.3.pyw
 ```
 
-또는
+Or run the CLI directly:
 
 ```bash
 python cli.py
 ```
 
----
+## 💡 Usage
 
-## 💡 사용 예시
-
-```bash
+```text
 > ls
 > cd folder_name
 > rm file.txt
 > cp file.txt backup.txt
 ```
 
----
+The command structure is designed to be simple and familiar, making basic file operations quick and easy to perform.
 
-## 🔧 개발 환경
+## 🔧 Development
 
-* Python 3.x
-* Windows 환경 기준 개발
+* **Language:** Python 3.x
+* **Platform:** Windows
+* **Interface:** Command Line Interface (CLI)
 
----
+## 🛠️ Future Plans
 
-## 📈 향후 개선 계획
+* [ ] Command auto-completion
+* [ ] Command history
+* [ ] Improved terminal UX
+* [ ] Additional file management commands
+* [ ] Plugin-based command extensions
+* [ ] Cross-platform support
 
-* 자동완성 기능 추가
-* 명령 히스토리 기능
-* UI 개선 (터미널 UX 강화)
-* 플러그인 방식 명령 확장
+## 📄 License
 
----
+This project was created for personal learning and development purposes.
 
-## 📄 라이선스
+## 👤 Author
 
-이 프로젝트는 개인 학습 및 개발 목적으로 제작되었습니다.
+**artofstock**
 
----
-
-## 👤 개발자
-
-* artofstock (yongsub@gmail.com)
+📫 [yongsub@gmail.com](mailto:yongsub@gmail.com)
